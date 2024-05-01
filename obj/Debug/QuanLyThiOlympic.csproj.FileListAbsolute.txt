@@ -1,0 +1,14 @@
+D:\Winform\QuanLyThiOlympic\bin\Debug\QuanLyThiOlympic.exe.config
+D:\Winform\QuanLyThiOlympic\bin\Debug\QuanLyThiOlympic.exe
+D:\Winform\QuanLyThiOlympic\bin\Debug\QuanLyThiOlympic.pdb
+D:\Winform\QuanLyThiOlympic\bin\Debug\EntityFramework.dll
+D:\Winform\QuanLyThiOlympic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\QuanLyThiOlympic\bin\Debug\EntityFramework.xml
+D:\Winform\QuanLyThiOlympic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.csproj.AssemblyReference.cache
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.Properties.Resources.resources
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.csproj.GenerateResource.cache
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.csproj.CopyComplete
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.exe
+D:\Winform\QuanLyThiOlympic\obj\Debug\QuanLyThiOlympic.pdb
